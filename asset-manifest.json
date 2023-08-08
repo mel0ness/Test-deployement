@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Test-deployement/static/css/main.82a8127c.css",
-    "main.js": "/Test-deployement/static/js/main.5f894bff.js",
+    "main.css": "/Test-deployement/static/css/main.fa998586.css",
+    "main.js": "/Test-deployement/static/js/main.aceb619e.js",
     "static/js/787.cda612ba.chunk.js": "/Test-deployement/static/js/787.cda612ba.chunk.js",
-    "static/media/bank-tree.webp": "/Test-deployement/static/media/bank-tree.c12cfb41c9bdbbcd7292.webp",
+    "static/media/bank-tree.webp": "/Test-deployement/static/media/bank-tree.005c0931004a25df2ddd.webp",
     "static/media/argentBankLogo.webp": "/Test-deployement/static/media/argentBankLogo.9e63db95d61be28a7a00.webp",
     "static/media/error.webp": "/Test-deployement/static/media/error.e17871e0c432e6a151ae.webp",
     "index.html": "/Test-deployement/index.html",
-    "main.82a8127c.css.map": "/Test-deployement/static/css/main.82a8127c.css.map",
-    "main.5f894bff.js.map": "/Test-deployement/static/js/main.5f894bff.js.map",
+    "main.fa998586.css.map": "/Test-deployement/static/css/main.fa998586.css.map",
+    "main.aceb619e.js.map": "/Test-deployement/static/js/main.aceb619e.js.map",
     "787.cda612ba.chunk.js.map": "/Test-deployement/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82a8127c.css",
-    "static/js/main.5f894bff.js"
+    "static/css/main.fa998586.css",
+    "static/js/main.aceb619e.js"
   ]
 }
